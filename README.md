@@ -39,7 +39,7 @@ Download pretrained Language Model from [here](https://drive.google.com/open?id=
 
 ## Classifier
 
-Download classifier from [here](https://drive.google.com/open?id=1DzNZn9jvOeD5HRE-v2NJmxkdnggVZJCs)
+Download classifier from [here](https://drive.google.com/file/d/1--DPjXphTDsn0XZV1GnXvltoy7BqK4za)
 
 
 ## Tokenizer
