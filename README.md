@@ -30,6 +30,15 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 |:--------:|:----:|:----:|
 | Telugu News Articles |  95.1  |  93.8  |
 
+#### Visualizations
+ 
+##### Embedding Space
+
+| Architecture | Visualization |
+|:--------:|:----:|
+| ULMFiT | [Embeddings projection](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Shubhamjain27/nlp-for-telugu/master/language-model/embedding_projector_config.json) |
+| TransformerXL | [Embeddings projection](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Shubhamjain27/nlp-for-telugu/master/language-model/embedding_projector_transformer_config.json)  |
+
 
 
 ## Pretrained Language Model

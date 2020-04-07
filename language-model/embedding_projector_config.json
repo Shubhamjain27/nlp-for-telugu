@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Telugu Embedding Vectors - ULMFiT",
+        "tensorShape": [
+          25000,
+          400
+        ],
+        "tensorPath": "https://media.githubusercontent.com/media/Shubhamjain27/nlp-for-telugu/master/language-model/embeddings.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/Shubhamjain27/nlp-for-telugu/master/language-model/embeddings_metadata.tsv"
+      }
+    ]
+  }
