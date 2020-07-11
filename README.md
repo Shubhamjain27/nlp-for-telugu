@@ -9,9 +9,9 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 ## Dataset
 
 #### Created as part of this project
-1. [Telugu Wikipedia Dataset](https://drive.google.com/file/d/1WmjmnTbNQr2wUeBZQq1NMIqCDpp1muHO)
+1. [Telugu Wikipedia Dataset](https://www.kaggle.com/shubhamjain27/telugu-wikipedia-articles)
 
-2. [Telugu News Dataset](https://drive.google.com/open?id=1QH0qSlubK5pO_eqI7Y4HxWH6tFYT68f-)
+2. [Telugu News Dataset](https://www.kaggle.com/shubhamjain27/telugu-news-articles)
 
 ## Results
 
@@ -19,7 +19,7 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 
 | Architecture/Dataset | Telugu Wikipedia Articles |
 |:--------:|:----:|
-|   ULMFiT  |  15.92  |
+|   ULMFiT  |  27.47  |
 |  TransformerXL |  29.44  |
 
 #### Classification Metrics
@@ -28,7 +28,7 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 
 | Dataset | Accuracy | Kappa Score |
 |:--------:|:----:|:----:|
-| Telugu News Articles |  95.1  |  93.8  |
+| Telugu News Articles |  95.4  |  93.8  |
 
 #### Visualizations
  
@@ -43,12 +43,12 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 
 ## Pretrained Language Model
 
-Download pretrained Language Model from [here](https://drive.google.com/open?id=1-0aJdbOcdw5_JYQIwHY04hlDY8tOQSIk)
+Download pretrained Language Model from [here](https://drive.google.com/file/d/14y13-QqgZ9fkxDi5IyLVMswWaT4JgYpJ/view?usp=sharing)
 
 
 ## Classifier
 
-Download classifier from [here](https://drive.google.com/file/d/1--DPjXphTDsn0XZV1GnXvltoy7BqK4za)
+Download classifier from [here](https://drive.google.com/file/d/1-5YYYFdbGKVK4CvGYqYxbq2JubmkiDfH/view?usp=sharing)
 
 
 ## Tokenizer
