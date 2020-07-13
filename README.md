@@ -13,6 +13,9 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 
 2. [Telugu News Dataset](https://www.kaggle.com/shubhamjain27/telugu-news-articles)
 
+3. [Telugu News Dataset II](https://www.kaggle.com/shubhamjain27/telugu-newspaperdata)
+
+
 ## Results
 
 #### Language Model Perplexity
@@ -29,6 +32,8 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 | Dataset | Accuracy | Kappa Score |
 |:--------:|:----:|:----:|
 | Telugu News Articles |  95.4  |  93.8  |
+| Telugu News Articles - Andhra Jyoti|  92.09  |  
+
 
 #### Visualizations
  
